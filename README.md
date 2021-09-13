@@ -2,7 +2,7 @@
 
 My name is **`Stefan`**. I'm an avid mobile space enthusiast.
 
-> Flutter developer by day; iOS developer by night.
+> **_Flutter_** developer by day; **_iOS_** developer by night.
 
 ---
 
