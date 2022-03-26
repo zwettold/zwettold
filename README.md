@@ -1,4 +1,4 @@
-### Hello there! 👋
+## Hello there! 👋
 
 My name is **Stefan**. I'm an avid mobile space enthusiast.
 
